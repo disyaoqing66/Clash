@@ -1,4 +1,15 @@
 #ToDesk
+PROCESS-NAME,SunloginClient.exe
+PROCESS-NAME,ToDesk.exe
+PROCESS-NAME,NutstoreClient.exe
+PROCESS-NAME,nutstore_watchdog.exe
+PROCESS-NAME,NutstoreDriverSvc.exe
+PROCESS-NAME,TIM.exe
+PROCESS-NAME,QQExternal.exe
+PROCESS-NAME,QQ.exe
+PROCESS-NAME,TXPlatform.exe
+PROCESS-NAME,WeChat.exe
+PROCESS-NAME,WeChatAppEx.exe
 DOMAIN-SUFFIX,todesk.com
 IP-CIDR,43.154.196.246/22
 #DST-PORT,443
@@ -8,4 +19,3 @@ DOMAIN-KEYWORD,ttshitu
 DOMAIN-SUFFIX,ttshitu.com
 DOMAIN-KEYWORD,mobileanjian
 DOMAIN-KEYWORD,yescaptcha
-DOMAIN-KEYWORD,tencent
